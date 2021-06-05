@@ -1,6 +1,16 @@
 # submission_dicoding_flutter
 
 A new Flutter project.
+Recipe App
+
+## Image
+![screenshoot](flutter_01.png)
+![screenshoot](flutter_02.png)
+![screenshoot](flutter_03.png)
+![screenshoot](flutter_04.png)
+![screenshoot](flutter_05.png)
+![screenshoot](flutter_06.png)
+![screenshoot](flutter_07.png)
 
 ## Getting Started
 
