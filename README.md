@@ -4,13 +4,18 @@ A new Flutter project.
 Recipe App
 
 ## Image
-![screenshoot](flutter_01.png)
-![screenshoot](flutter_02.png)
-![screenshoot](flutter_03.png)
-![screenshoot](flutter_04.png)
-![screenshoot](flutter_05.png)
-![screenshoot](flutter_06.png)
-![screenshoot](flutter_07.png)
+
+<p float="left">
+  <img src="flutter_01.png" width="200" />
+  <img src="flutter_02.png" width="200" /> 
+  <img src="flutter_03.png" width="200" />
+</p><br>
+<p float="left">
+  <img src="flutter_04.png" width="200" />
+  <img src="flutter_05.png" width="200" /> 
+  <img src="flutter_06.png" width="200" />
+  <img src="flutter_07.png" width="200" />
+</p>
 
 ## Getting Started
 
